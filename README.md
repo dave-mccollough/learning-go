@@ -1,4 +1,4 @@
-# learning Go
+# Learning Go
 
 ## Resources
 
